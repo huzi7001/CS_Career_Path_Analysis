@@ -1,0 +1,2 @@
+# CS_Career_Path_Analysis
+Kya aap bhi confuse hain ke computer science mein kis course ya field ko chunein? 🤔 Aaiye, is confusion ko milkar dur karte hain! Is repository mein aapko computer science ke alag-alag career paths ka detailed analysis, resources, aur roadmaps milenge. Data science ho, web development, cybersecurity ya AI – humne har cheez ko simplify kiya hai. Yeh repository aapke liye ek guide hai taaki aap behtar faisla le saken aur apne sapnon ka career bana saken. Chaliye, shuru karte hain!
