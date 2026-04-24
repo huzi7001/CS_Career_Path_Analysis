@@ -121,11 +121,11 @@ Kya aap bhi confuse hain ke computer science mein kis course ya field ko chunein
 ---
 
 ## Final Verdict (practical ranking for 2025+)
-1. **AI / ML / Data Science** — best for high pay + growth  
-2. **Cloud + DevOps** — essential for modern infra and AI deployment  
-3. **Cybersecurity** — recession-proof and high demand  
-4. **Web & Mobile Development** — great entry path + freelancing  
-5. **Blockchain / Gaming** — niche, high risk/reward
+1. **AI / ML / Data Science** — best for high pay + growth.
+2. **Cloud + DevOps** — essential for modern infra and AI deployment.  
+3. **Cybersecurity** — recession-proof and high demand.
+4. **Web & Mobile Development** — great entry path + freelancing. 
+5. **Blockchain / Gaming** — niche, high risk/reward.
 
 ---
 
